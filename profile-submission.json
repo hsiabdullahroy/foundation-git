@@ -13,12 +13,25 @@
       "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/4"
     },
     {
+      "nip_hsi": "ARN231-23073",
+      "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/10"
+    },
+    {
       "nip_hsi": "ARN161-2224",
       "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/7"
     },
     {
+<<<<<<< HEAD
       "nip_hsi": "ARN192-21024",
       "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/3"
+=======
+      "nip_hsi": "ARN182-23160",
+      "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/20"
+    },
+    {
+      "nip_hsi": "ART232-13086",
+      "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/26"
+>>>>>>> 79c8ac5008eb81e58d79d3ffdd7f01de732a6005
     }
   ]
 }
