@@ -6,13 +6,46 @@ Ikuti petunjuk dibawah ini:
 
 2. Lakukan fork pada repository ini.
 
-3. Lakukan clone pada repository yang sudah kamu fork dari akun Github kamu ke komputer lokal kamu.
+3. Lakukan Clone repository hasil fork ke komputer lokal Anda.
 
-4. Kemudian, edit file profile-submission.json, tambahkan pada baris baru NIP HSI Anda dan link Issue yang Anda buat.
+```
+git clone https://github.com/<akun-github-anda>/foundation-git.git
+```
 
-5. Lakukan commit pada perubahan yang telah kamu buat di komputer lokal kamu.
+4. Masuk ke folder project dan buat branch baru berdasarkan NIP HSI Anda
 
-6. Lakukan push commit tersebut ke repository yang telah kamu fork di akun GitHub kamu.
+```
+cd foundation-git
+git switch -c profile-ARN211-09034
+```
 
-7. Buat sebuah Pull Request (PR) di repository ini, kemudian Senior Learner akan mengeceknya.
+5. Kemudian, edit file `profile-submission.json`
 
+Tambahkan data profil (NIP HSI Anda dan link Issue yang Anda buat) di baris paling bawah,
+
+> Pastikan tidak ada tanda koma ekstra yang hilang atau kelebihan dan tidak ada error di VSCODE (atau code editor Anda)
+
+6. Simpan perubahan dan push ke repo fork (Github Anda)
+
+```
+    git add profile-submission.json
+    git commit -m "add: profile-ARN211-09034"
+    git push origin profile-ARN211-09034
+```
+
+> sesuaikan dengan NIP HSI Anda
+
+8. Buat sebuah Pull Request (PR)
+   Setelah push berhasil, buka repository ini di GitHub dan buat Pull Request dari branch Anda.
+
+tulis di kolom deskripsi sesuai dengan yang Anda lakukan, misalnya dalam hal ini menambahkan profil
+
+```
+menambahkan profile-ARN211-09034
+
+Closes #3
+```
+
+> Gantilah `#3` dengan nomor issue Anda masing-masing. Penulisan `Closes #...` akan menutup issue Anda secara otomatis saat PR di-merge.
+
+9. kemudian Senior Learner akan mengeceknya.
