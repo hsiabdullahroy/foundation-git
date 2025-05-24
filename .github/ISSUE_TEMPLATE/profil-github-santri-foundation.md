@@ -3,20 +3,19 @@ name: Profil Github Santri Foundation
 about: Data profil santri-santri Foundation yang sedang belajar materi Git
 title: Github Profile - [NIP HSI ARN atau ART]
 labels: documentation
-assignees: ''
-
+assignees: ""
 ---
 
 # Profil Github
 
 User:
-[Ganti dengan NIP HSI ARN atau ART]
+ARN192-21024
 
 Akun Github:
-[Ganti dengan https://github.com/akunanda]
+https://github.com/pninopratama
 
 Belajar di Foundation by Sandbox IT HSI pada:
-[Ganti dengan Bulan dan tahun saat ini]
+Mei 2025
 
 Testimoni untuk program Foundation:
-[Tulis pesan, kesan, dan saran selama mengikuti program]
+Semoga dengan bergabung dengan sanbox IT HSI, saya bisa menambah skill yang saya miliki
