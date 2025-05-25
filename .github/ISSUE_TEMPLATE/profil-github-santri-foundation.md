@@ -17,6 +17,3 @@ Akun Github:
 
 Belajar di Foundation by Sandbox IT HSI pada:
 [Ganti dengan Bulan dan tahun saat ini]
-
-Testimoni untuk program Foundation:
-[Tulis pesan, kesan, dan saran selama mengikuti program]
