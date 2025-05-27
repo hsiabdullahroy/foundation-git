@@ -1,5 +1,4 @@
-{
-  "team_profiles": [
+[
     {
       "nip_hsi": "NIP HSI ARN / ART",
       "profile_issue_link": "link menuju issue yang Anda buat. Contohnya lihat dibawah."
@@ -35,6 +34,11 @@
     {
       "nip_hsi": "ARN192-24129",
       "profile_issue_link": "https://github.com/hsiabdullahroy/foundation-git/issues/22"
-    }
+    },
+  {
+    "nip": "ARN201-46196",
+    "github_url": "https://github.com/hsiabdullahroy/foundation-git/issues/13"
+  }
   ]
 }
+
